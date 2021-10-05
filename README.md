@@ -76,3 +76,10 @@ Vertice 4 ---> Cor 3
 
 
 ### Referências
+
+- DÉHARBE, David. **Algoritmos gulosos,** Universidade Federal do Rio Grande do Norte. Disponível em: http://daviddeharbe.github.io/downloads/lectures/2015.2/dim0806/aula29.pdf. Acesso em 03 out. 2021.
+- FEOFILOFF, Paulo.  Algoritmos para grafos: **Coloração de vértices.** Instituto de Matemática e Estatística da USP, 2019. Disponível em: https://www.ime.usp.br/~pf/algoritmos_para_grafos/aulas/vertex-coloring.html#sec:greedy. Acesso em: 02 out. 2021.
+- FEOFILOFF, Paulo.  Análise de algoritmos: **Complexidade e problemas NP-completos.** Instituto de Matemática e Estatística da USP, 2021. Disponível em: https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/NPcompleto.html Acesso em: 02 out. 2021.
+- FEOFILOFF, Paulo.  Análise de algoritmos: **Método guloso.** Instituto de Matemática e Estatística da USP, 2020. Disponível em: https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/guloso.html. Acesso em: 03 out. 2021.
+- LUIZ, Atílio Gomes. **Coloração de grafos e suas aplicações.** In: V Workshop de Tecnologia da Informação do Sertão Central, 2015. Disponível em: https://www.ic.unicamp.br/~atilio/slidesWtisc.pdf. Acesso em: 30 set. 2021.
+- Wikipedia: **Graph coloring**. Disponível em: https://en.wikipedia.org/wiki/Graph_coloring. Acesso em: 30 out. 2021.
