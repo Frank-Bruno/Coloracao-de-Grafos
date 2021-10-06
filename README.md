@@ -51,8 +51,7 @@ Vertice 4 ---> Cor 1
 
 ### Análise do algoritmo e limitações
 
-O algoritmo nem sempre utiliza um número mínimo de cores. Além disso, o número de cores usadas em algum momento pode depender da ordem em que os vértices são inseridos. Por exemplo, considere os dois gráficos a seguir. Observe que no gráfico do lado direito, os vértices 3 e 4 estão trocados.
-
+O algoritmo nem sempre utiliza um número mínimo de cores. Além disso, o número de cores usadas em algum momento pode depender da ordem em que os vértices são inseridos. Por exemplo, considere os dois grafos a seguir. Observe que no grafo do lado direito, os vértices 3 e 4 estão trocados.
 
 ```java
 //Grafo 1
